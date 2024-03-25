@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @linesh-mishra123
+- 👋 Hi, I’m @linesh-mishra
 - 👀 I’m interested in coding and software development
 - 🌱 I’m currently learning C, C++,PHP,HTML.
 - 💞️ I’m looking to collaborate on ...
