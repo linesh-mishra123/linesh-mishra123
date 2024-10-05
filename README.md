@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @linesh-mishra
 - 👀 I’m interested in coding and software development
-- 🌱 I’m currently learning C, C++,PHP,HTML.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me 9356448557
 
 <!---
